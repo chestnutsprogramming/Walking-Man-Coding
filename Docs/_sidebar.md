@@ -4,4 +4,4 @@
     * [Basics]()
 
 * Scene Guides
-  * [Sample Scene](SampleScene.md)
+  * [Sample Scene](Scenes/SampleScene.md)

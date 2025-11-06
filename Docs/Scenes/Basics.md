@@ -1,14 +1,10 @@
-# Walking-Man Coding
-
-Beginners Guided coding exercises using C# and unity
-
 ![SampleScene Image](../data/img.png)
 
 ## Unity UI Basics
 
 ### The Hierarchy
 In the left pane there is the Hierarchy, this is where your `Scene`'s `GameObject`'s
-will appear. You can add new ones by right-clicking in this pane 
+will appear. You can add new ones by right-clicking in this pane
 
 ### Game Editor/Viewer/Player
 The center pane contains the player/editor/viewer. when you press play this will
