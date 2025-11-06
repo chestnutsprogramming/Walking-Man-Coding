@@ -1,4 +1,4 @@
-![SampleScene Image](../data/img.png)
+![SampleScene Image](data/img.png)
 
 ## Unity UI Basics
 
