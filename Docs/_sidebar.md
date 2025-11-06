@@ -1,10 +1,10 @@
 * Getting started
-  * [Read me](README.md)
-  * [Basics](Docs/Basics.md)
-  * [First Script](Docs/First-script.md)
+  * [Read me](readme.md)
+  * [Basics](Basics.md)
+  * [First Script](First-script.md)
 
 * Scene Guides
-  * [Sample Scene](Docs/Scenes/SampleScene.md)
+  * [Sample Scene](Scenes/SampleScene.md)
 
 * C#
   * [Class.Method();]()
