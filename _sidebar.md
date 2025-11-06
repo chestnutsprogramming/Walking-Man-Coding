@@ -7,9 +7,9 @@
   * [Sample Scene](Docs/Scenes/SampleScene.md)
 
 * C#
-  * [Class.Method();]()
-  * [If statements]()
-  * [For statements]()
-  * [While statements]()
-  * [Classes]()
-  * [Inheritance]()
+  * [Class.Method();](Docs/CSharp/ClassMethod.md)
+  * [If statements](Docs/CSharp/IfStatements.md)
+  * [For statements](Docs/CSharp/ForStatements.md)
+  * [While statements](Docs/CSharp/WhileStatements.md)
+  * [Classes](Docs/CSharp/Classes.md)
+  * [Inheritance](Docs/CSharp/Inheritance.md)

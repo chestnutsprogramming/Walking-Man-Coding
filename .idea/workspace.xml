@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75e232f1-7273-4cc0-b531-bece93c54f9c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/CSharp/ClassMethod.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/CSharp/Classes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/CSharp/ForStatements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/CSharp/IfStatements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/CSharp/Inheritance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/CSharp/WhileStatements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1762465745252</updated>
       <workItem from="1762465746312" duration="5496000" />
-      <workItem from="1762471308597" duration="285000" />
+      <workItem from="1762471308597" duration="916000" />
     </task>
     <servers />
   </component>
