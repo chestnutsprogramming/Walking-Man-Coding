@@ -5,6 +5,10 @@
 
 * Scene Guides
   * [Sample Scene](Docs/Scenes/SampleScene.md)
+  * [Assig 1](Docs/Scenes/0.md)
+  * [Practice 2](Docs/Scenes/1.md)
+  * [Assig 3 P1](Docs/Scenes/2-1.md)
+  * [Assig 3 P2](Docs/Scenes/2-2.md)
 
 * C#
   * [Class.Method();](Docs/CSharp/ClassMethod.md)

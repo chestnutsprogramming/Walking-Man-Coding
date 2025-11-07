@@ -1,6 +1,6 @@
 # First Script
 ## ReachTheGoal.cs
-this script is where you will be coding, but we need to set it up for the first time.
+find the `ReachTheGoal` script in the project panel should be in the Assets folder, this script is where you will be coding, but we need to set it up for the first time.
 Not all of this will make sense but lets try it out.
 
 ### Open the script
@@ -62,12 +62,12 @@ GameObject's come with components we will see these later down the line.
 These components let us change things about our object such as adding scripts.
 In this case we are trying to find our script Character from our object character.
 If you click on Character in the hierarchy then look in the inspector you will find that script named Character.
-This code did the same thing you did by looking for it.
+The code above did the same thing you did by looking for it.
 
 ## Createing the script object
 
-In the `Hierarchy` right click press `Empty Component` rename this to script or a variant of,
+In the `Hierarchy` right click press `Create Empty` rename this to script or a variant of,
 from your `Project` window find the ReachTheGoal.cs script and drag it onto the object we just created.
 This add the script for us to our object, and adds a script component in our inspector. in the script portion of the inspector
-you will see `character` with the words empty gameobject or missing object... Drag the `Character` object 
+you will see `character` with the words empty gameobject or missing object... Drag the `Character` object from the Hierarchy
 into this box.
