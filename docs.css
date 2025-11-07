@@ -1,0 +1,89 @@
+/* --- Base page --- */
+body {
+    background-color: #2d2d37;      /* Softer dark blue-black */
+    color: #d8d8d8;                 /* Light gray text */
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.6;
+}
+
+/* --- Links --- */
+a {
+    color: #6edc6e;                 /* Green links */
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: #a0f0a0;
+}
+
+/* --- Headers --- */
+h1, h2, h3, h4 {
+    color: #8af281;                 /* Softer green headers */
+}
+
+/* --- Sidebar --- */
+.sidebar {
+    background-color: #1d1d22;
+    border-right: 1px solid #444;
+}
+.sidebar a {
+    color: #6edc6e;
+}
+.sidebar a:hover {
+    color: #a0f0a0;
+}
+
+/* --- Main content area --- */
+#app {
+    padding: 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+/* --- Inline code --- */
+code {
+    background-color: #2f2f42;
+    color: #c5f27f;
+    padding: 2px 6px;
+    border-radius: 6px;
+    font-family: 'Fira Code', monospace;
+}
+
+/* --- Code blocks --- */
+pre {
+    background-color: #2f2f42;
+    border-left: 4px solid #6edc6e;
+    padding: 1rem;
+    border-radius: 10px;
+    overflow-x: auto;
+    color: #c5f27f;
+    box-shadow: inset 0 0 5px rgba(0,0,0,0.5);
+}
+
+/* --- Tables --- */
+table {
+    border-collapse: collapse;
+    margin: 1rem 0;
+}
+th, td {
+    border: 1px solid #444;
+    padding: 0.5rem 1rem;
+    background-color: #2a3c35;
+}
+th {
+    background-color: #324a3a;
+}
+
+/* --- Blockquotes --- */
+blockquote {
+    border-left: 4px solid #6edc6e;
+    padding-left: 1rem;
+    color: #5b5b70;
+    background-color: #2a2a3c;
+    border-radius: 6px;
+}
+
+/* --- Lists --- */
+ul, ol {
+    margin-left: 1.5rem;
+}

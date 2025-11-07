@@ -13,3 +13,7 @@
   * [While statements](Docs/CSharp/WhileStatements.md)
   * [Classes](Docs/CSharp/Classes.md)
   * [Inheritance](Docs/CSharp/Inheritance.md)
+
+* Project API Docs
+  * [Character](Docs/Raw/Character-cs.md)
+  * [Tile-Util (TU)](Docs/Raw/Tile-Util.md)

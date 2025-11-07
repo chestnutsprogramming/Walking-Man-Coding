@@ -19,14 +19,7 @@ public class TU : MonoBehaviour
 
         // Read current tile sprite
         Sprite currentTileSprite = tilemap.GetSprite(cellPos);
-
-        // Optional test: change it visually
-        // if (changeTest != null)
-        // {
-        //     Tile tile = ScriptableObject.CreateInstance<Tile>();
-        //     tile.sprite = changeTest;
-        //     tilemap.SetTile(cellPos, tile);
-        // }
+        
 
         // Determine type
         if (currentTileSprite == null) return TileType.None;
