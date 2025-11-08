@@ -1,7 +1,11 @@
 # Sample Scene
 ![Scene img 1](../data/img.png)
+
+
 Looking at the Hierarchy, you may find you have both a `Character` and a `Goal`.
 your objective is to get the `Character` to the `goal`.
+
+## Objective
 ![Scene img 1](../data/img_1.png)
 Here are two sample paths.
 

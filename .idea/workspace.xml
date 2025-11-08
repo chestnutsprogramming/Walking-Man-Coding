@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75e232f1-7273-4cc0-b531-bece93c54f9c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Docs/Scenes/0.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/Scenes/1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/Scenes/2-1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/Scenes/2-2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/data/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/data/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/data/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docs/data/img_5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/First-script.md" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/First-script.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ReachTheGoal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ReachTheGoal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Prefabs/Goal.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Prefabs/Goal.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/0.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/0.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/2 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/2 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/2.2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/2.2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/4.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docs/Scenes/SampleScene.md" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Scenes/SampleScene.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +101,7 @@
       <updated>1762465745252</updated>
       <workItem from="1762465746312" duration="5496000" />
       <workItem from="1762471308597" duration="2466000" />
-      <workItem from="1762474270832" duration="7977000" />
+      <workItem from="1762474270832" duration="11513000" />
     </task>
     <servers />
   </component>

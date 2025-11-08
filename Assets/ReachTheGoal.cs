@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class ReachTheGoal : MonoBehaviour
 {
-    
-    public GameObject tile_grid;
 
     void Awake()
     {
